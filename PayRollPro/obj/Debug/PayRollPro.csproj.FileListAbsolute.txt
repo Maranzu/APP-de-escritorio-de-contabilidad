@@ -1,0 +1,15 @@
+D:\App web\PayRollPro\PayRollPro\bin\Debug\PayRollPro.exe.config
+D:\App web\PayRollPro\PayRollPro\bin\Debug\PayRollPro.exe
+D:\App web\PayRollPro\PayRollPro\bin\Debug\PayRollPro.pdb
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.csproj.AssemblyReference.cache
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.csproj.SuggestedBindingRedirects.cache
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.Menu.resources
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.Properties.Resources.resources
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.csproj.GenerateResource.cache
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.csproj.CoreCompileInputs.cache
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.exe
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.pdb
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.Usuario.resources
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.Registro.resources
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.Reporte.resources
+D:\App web\PayRollPro\PayRollPro\obj\Debug\PayRollPro.compra.resources
